@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nombre-repositorio/precache-manifest.87e5ae3ba2651c3398a82732d9ab5a4c.js"
+  "/ia_procedural/precache-manifest.8b186b1cde251aa1d7dfab3f355632dc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "procedural"});
